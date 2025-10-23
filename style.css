@@ -1,7 +1,7 @@
 body {
-  background-color: #FFFFEO; /* WARNA KUNING CERAH */
+  background-color: #FFFFEO;
 font-family: arial, sans-serif;
-color:00000ff ;
+color: 191970 ;
 }
 
 .profil {
@@ -9,13 +9,13 @@ color:00000ff ;
   margin: 50px auto ;
     padding:20px ;
   background-color: white;
-  border-radius:15px;
-box-shadow:0,4px  8pb rgba(0,0,0,0,1);
+  border-radius: 15px;
+box-shadow:0,4px  8px rgba(0,0,0,0,1);
   text-align: center;
 }
 
 
 .profil img {
   width: 100px;
-  border-radius: 50%; /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+  border-radius: 50%;
 }
